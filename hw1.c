@@ -3,7 +3,7 @@
 int main()
 {
     
-     int a;
+     int a; //0으로 초기화 안해도 됨.
 
      printf("정수");
      scanf("%d", &a);
@@ -30,5 +30,4 @@ int main()
 
      return 0;
      
-
 }
