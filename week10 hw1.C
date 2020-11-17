@@ -31,7 +31,7 @@ int main()
   printf("최대값:  %d\n", (p > q) ? p : q);
   printf("최소값:  %d\n", (p < q) ? p : q);
 
-  ((p % 2) == 0) ? printf("짝수\n\n") : printf("홀수\n\n") ;
+  ((p % 2) == 0) ? printf("짝수\n\n") : printf("홀수\n\n");
 
   //비트연산자 실습
   int k = 65535;
