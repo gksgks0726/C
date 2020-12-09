@@ -15,7 +15,7 @@ int main()
     else if (a >= 70)
         printf("C\n");
 
-    else if (a >= 70)
+    else if (a >= 60)
         printf("D\n");
 
     else
